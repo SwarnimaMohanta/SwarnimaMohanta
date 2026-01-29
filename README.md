@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm a B.Tech CSE (AI) Student</h1>
-<h3 align="center">Aspiring AI Engineer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Swarnima Mohanta</h1>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI)+Student;Aspiring+AI+Engineer;Problem+Solver;Tech+Enthusiast" 
+    alt="Typing SVG" 
+  />
+</p>
+
 
 ---
 
@@ -15,38 +22,13 @@
 
 ## 🛠️ Skills & Languages
 
-### 💻 Programming Languages
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  </a>
-  <a href="https://en.cppreference.com/w/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-  </a>
-</p>
+💻 Programming & Web Technologies
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> </a> </p><br>
 
-### 🤖 AI / Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Structures-FF6F00?style=for-the-badge"/>
-</p>
+📊 Data Science & AI
+<p align="left"> <a href="https://numpy.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/> </a> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/> </a> </p>
 
----
 
-## 🚀 Projects
-
-- 🔹 **AI-based Mini Projects** – Applied ML concepts on real datasets  
-- 🔹 **DSA Practice Projects** – Strengthening problem-solving skills  
-- 🔹 **Academic Projects** – CSE & AI-related coursework implementations  
-
-> 📌 *More projects coming soon…*
 
 ---
 
@@ -69,8 +51,17 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwarnimaMohanta&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SwarnimaMohanta&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarnimaMohanta&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarnimaMohanta&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
 
 ---
 
