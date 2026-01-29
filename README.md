@@ -74,16 +74,5 @@
 ---
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwarnimaMohanta&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwarnimaMohanta&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwarnimaMohanta&layout=compact&theme=radical)
-
-
-
----
 
 ⭐ **Feel free to explore my repositories and connect with me!**
